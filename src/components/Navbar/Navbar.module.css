@@ -1,0 +1,43 @@
+.navbar {
+    display: flex;
+    background-color: #191718;
+}
+
+.ulItem {
+    width: 150px;
+}
+
+.liItem {
+    height: 40px;
+    border-bottom: 1px solid;
+    list-style: none;
+    text-align: center;
+    line-height: 40px;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.liItem.homeItem a {
+    color: #fff;
+}
+
+.liItem:hover {
+    background-color: #5c5c5c;
+}
+
+.liItem:hover a {
+    color: #fff;
+}
+
+.liItem a {
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA;
+}
+
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+}

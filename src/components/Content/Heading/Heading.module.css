@@ -1,0 +1,11 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.heading .logo {
+    margin-top: 20px;
+    width: 310px;
+    height: 122px;
+}
